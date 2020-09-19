@@ -1,0 +1,8 @@
+UPDATE.DLL V0.1使用公告
+TYPE.HTML 1=跳出消息 允许运行 2=关闭 直接跳出更新 3=关闭 直接更新
+VER.HTML 没有规定 拒绝中文 除非ansi编码
+DOWNLOADLINK.HTML 发出链接 如a.com/e/hello.exe 不需要改名字 DLL自动修改
+
+UPDATE 0.2未来更新预告(也许会加入)
+下载的文件允许修改自己的名字 加入NAME.HTML里
+
